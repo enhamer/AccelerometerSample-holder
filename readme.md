@@ -20,6 +20,18 @@ ver. 4.0 (R19.1)
 ![Accelerometer & sample on shaker](_img/Acc-flat-acc-sample-mounted.jpg)
 
 
+
+## Cubic accelerometer holder for High Temperature testing
+### Model
+![Cubic holder](_img/Acc-cubic-model-iso.png)
+
+### Shaft with accelerometer mounted on shaker
+![Cubic holder on accelerometer](_img/Acc-cubic-shaker-shaft.png)
+
+### Shaft with accelerometer mounted on top of a furnace
+![Cubic holder on accelerometer](_img/Acc-cubic-furnace.png)
+
+
 SOURCE: https://github.com/enhamer
 
 Credits: NEMESIS- Novel Energy Materials, Engineering Science and Integrated Systems

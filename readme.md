@@ -31,6 +31,8 @@ Part of:
 
 *A System for Characterisation of Piezoelectric Materials and Associated Electronics for Vibration Powered Energy Harvesting Devices*
 
+>For detailed **Information, Manuals and Description** please go to [**ENHAMER**](https://github.com/enhamer/enhamer/).
+
 ## CAD software used: 
 [Design Spark Mechanical](https://www.rs-online.com/designspark/mechanical-software)
 ver. 4.0 (R19.1)
